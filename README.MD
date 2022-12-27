@@ -2,7 +2,7 @@
 
 ## How to run:
 
-1. Run through downloading the Jupyter notebook and the prerequisite libraries
+Run through downloading the Jupyter notebook and the prerequisite libraries
 
 ## Naive Bayes Classifier
 
