@@ -23,3 +23,33 @@ Run through downloading the Jupyter notebook and the prerequisite libraries
 ### Face Dataset
 
 ![](./outputs/KNN_face_dataset.png)
+
+## Multilayer perceptron (MLP) Classifier
+
+### Digit Dataset
+
+![](./outputs/MLP_digit_dataset.png)
+
+### Face Dataset
+
+![](./outputs/MLP_face_dataset.png)
+
+## Support Vector Machine (SVM) Classifier (Support Vector Classification)
+
+### Digit Dataset
+
+![](./outputs/SVM_digit_dataset.png)
+
+### Face Dataset
+
+![](./outputs/SVM_face_dataset.png)
+
+## Decision Tree (DT) Classifier
+
+### Digit Dataset
+
+![](./outputs/DT_digit_dataset.png)
+
+### Face Dataset
+
+![](./outputs/DT_face_dataset.png)
